@@ -6,3 +6,6 @@ Each repository will hopefully contain 3 (or more) folders for each language sol
 
 ## Layout
 Each challenge will be broken out by the challenge itself and the parent site/location.
+
+## Code
+The code is simply what has been submitted to the challenge site.

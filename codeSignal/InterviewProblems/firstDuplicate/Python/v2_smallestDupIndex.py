@@ -22,8 +22,6 @@ def firstDuplicate(a):
     else:
         return a[myMin]
 
-    
-
 if __name__ == "__main__":
     myList = [2,2]
     firstDuplicate(myList)
